@@ -6,3 +6,5 @@ def add(*args):
     else:
       print(f"skipping this {i} as it is non numeric")
   return total
+
+print(add(4,29,10,"er",4.2))
