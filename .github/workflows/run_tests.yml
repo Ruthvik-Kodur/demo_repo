@@ -1,0 +1,4 @@
+name: Run python tests
+
+- name: Execute tests
+  run: pytest
